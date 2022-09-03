@@ -1,0 +1,44 @@
+{
+    "Photo" : "https://kashmirobserver.net/wp-content/uploads/2021/05/ASIA-CUP.jpg" ,
+    
+    
+    "Event Name": "Asia Cup",
+    "Introduced BY" : "International Team Concil (icc)",
+    "Purpose" : "Cricket" ,
+    "Teams" : "All  asia team with sucessful points",
+    "First Time Played" : "2001-years",
+    "Predictable" : "India, Pakistan",
+    "Venues" : "Uae, India, Pakistan, Srilanka, Bangladesh",
+    "Best Bowelers" : "Wasim Akram, Waqar Younus, Kapil Dev, Harbajan Singh",
+    "Best Batsman" : "Sangakumar, Tendulkar, Younus Khan, Shawag Tamim Iqbal",
+    "Best Allrounder" : "Jadeja, Shakib Ul Hassan, Shadab, Jayasuria",
+    "Up Coming" : "2022 August",
+    "Best Comentators" : "Akash Chopra, Ramiz Raja",
+    "Sponsor" : "MYRS ",
+    "Formats" : "T-20, One Day",
+    "Winners" : [
+{
+    "Year": "2001",
+    "Team" : "India"
+},
+{
+    "Year" : "2005",
+    "Team" : "Pakistan"
+},
+{
+    "Year" : "2010",
+    "Team" : "Srilanka"
+}
+],
+
+"Pak-Captain" : "Afridi",
+"Ind-Captain" : "Ms Dhoni",
+"Sri-Captain" : "Lasit Malinga",
+"Ban-Captain" : "Tamim Iqbal ",
+"Afg-Captain" : "Rashid Khan" ,
+"Uae-Captain" : "Warner",
+"Earning"     : "20,000 $ per Event",
+"Fans"        : "Over All World",
+"Timings"     :  "7pm to 12pm"
+
+}
